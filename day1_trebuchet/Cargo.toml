@@ -1,0 +1,4 @@
+[package]
+name = "day1_trebuchet"
+version = "0.1.0"
+edition = "2021"
